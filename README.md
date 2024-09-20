@@ -1,4 +1,4 @@
- #Project Title: MovieGuide
+ ##Project Title: MovieGuide
  
  ## Overview of the Project:
    Movieguide is an Android app that lists popular and highest-rated movies, displays trailers, and shows user reviews. Built using the MVP pattern, RxJava, Dagger 2, and Uncle Bob Martin's Clean Architecture approach, the app is optimized for tablets and demonstrates key architectural concepts. This project is an updated version of a 7-year-old GitHub project.
