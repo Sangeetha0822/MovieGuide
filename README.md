@@ -35,12 +35,6 @@ Further checks were implemented at the repository layer to prevent duplicate dat
 
 Replaced outdated AsyncTask with Kotlin coroutines to handle asynchronous tasks.
 Refactored old lifecycle methods to use Android Jetpack's ViewModel and LiveData, making the code lifecycle-aware and robust against configuration changes.
-Migrated to AndroidX libraries to modernize the code and maintain compatibility with the latest Android development standards
-
-3. Deprecated Code Refactoring:
-
-Replaced outdated AsyncTask with Kotlin coroutines to handle asynchronous tasks.
-Refactored old lifecycle methods to use Android Jetpack's ViewModel and LiveData, making the code lifecycle-aware and robust against configuration changes.
 Migrated to AndroidX libraries to modernize the code and maintain compatibility with the latest Android development standards.
 
 
