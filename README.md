@@ -15,7 +15,7 @@
 - Dagger 2 for dependency injection
 - Retrofit for network calls
 - Room Database for local data storage
-- Uncle Bob's Clean Architecture
+  
 
 ## Necessary Changes Made to the Movieguide Project Functional
 
